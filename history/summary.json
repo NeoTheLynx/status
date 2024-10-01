@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.neothelynx.com.ico",
     "slug": "neo-the-lynx",
     "status": "up",
-    "uptime": "90.70%",
+    "uptime": "90.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "90.70%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "90.87%",
     "time": 195,
     "timeDay": 171,
     "timeWeek": 202,
@@ -26,7 +26,7 @@
     "url": "https://merch.neothelynx.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.neothelynx.com.ico",
     "slug": "neo-the-lynx-merch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,8 @@
     "timeWeek": 363,
     "timeMonth": 438,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-01": 0
+    }
   }
 ]
