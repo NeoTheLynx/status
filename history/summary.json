@@ -38,7 +38,7 @@
     "url": "https://merch.neothelynx.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.neothelynx.com.ico",
     "slug": "neo-the-lynx-merch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -50,6 +50,7 @@
     "timeMonth": 342,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2025-09-15": 0,
       "2025-08-01": 23,
       "2025-04-29": 16,
       "2025-04-01": 18,
