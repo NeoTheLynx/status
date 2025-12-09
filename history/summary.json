@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.neothelynx.com.ico",
     "slug": "neo-the-lynx",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "97.74%",
-    "time": 294,
-    "timeDay": 560,
-    "timeWeek": 568,
-    "timeMonth": 326,
-    "timeYear": 322,
+    "time": 295,
+    "timeDay": 612,
+    "timeWeek": 611,
+    "timeMonth": 337,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2025-11-18": 134,
       "2025-10-20": 71,
@@ -27,8 +27,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1260
+      "2024-12-10": 1440
     }
   },
   {
@@ -43,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 369,
-    "timeDay": 225,
-    "timeWeek": 164,
-    "timeMonth": 198,
-    "timeYear": 344,
+    "timeDay": 230,
+    "timeWeek": 172,
+    "timeMonth": 199,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2025-09-30": 33,
       "2025-09-15": 27,
